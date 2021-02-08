@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "A package to resize and rename an array (or a single image string) to a specified size and new name using image magick on the windows platform",
   "main": "index.js",
+  "repository": "https://github.com/BrianARuff/windows-imageMagick-resizer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
