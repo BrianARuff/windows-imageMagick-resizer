@@ -1,6 +1,6 @@
 # What is the purpose of this application?
 
-- The purpose of this application is to provide a simple to resize and rename either a single file or multiple files at once inside your javascript. Basically, you don't have to result to the web to do this.
+- The purpose of this application is to provide a simple way to resize and rename either a single file or multiple files at once inside your javascript. Basically, you don't have to result to the web to do this.
 
 ## How to use this application.
 
