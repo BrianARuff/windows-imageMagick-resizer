@@ -1,0 +1,20 @@
+{
+  "name": "windows-imagemagick-resizer",
+  "version": "1.0.0",
+  "description": "A package to resize and rename an array (or a single image string) to a specified size and new name using image magick on the windows platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brian Ruff",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node": "^15.8.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
