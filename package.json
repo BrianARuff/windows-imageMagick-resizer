@@ -1,12 +1,9 @@
 {
   "name": "windows-imagemagick-resizer",
-  "version": "1.0.10",
+  "version": "1.0.9",
   "description": "A package to resize and rename an array of images to a specified size and new name using image magick on the windows platform",
   "main": "index.js",
   "repository": "https://github.com/BrianARuff/windows-imageMagick-resizer",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
