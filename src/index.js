@@ -14,7 +14,7 @@ function resizeImages(startingPoint="./", oldImagePath=[__dirname], newImagePath
           if (err) {
             throw new Error(err);
           } else {
-            console.log(stderr, stdout);
+            console.log("Files resized and renamed");
           }
         }
       });
