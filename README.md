@@ -19,7 +19,7 @@
 
 ### Explanation of the function call above
 
-- All arguments must be wrapped in an array with the exception of the first which is a string.
+- All arguments must be wrapped in an array with the exception of the first which is a string, and is the starting point of where node will read your image files from.
 - The first is a string that is that should be typed relative to your \_\_dirname.
 - The second argument array is a list of your old files with paths on them relative to where your \_\_dirname directory is set to. In this example my code structure is setup so that my \_\_dirname refers to the root directory of the application which is also likely what yours is set to.
 - The third argument array is a list of your desired file names also with the relative path on them.
