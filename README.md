@@ -6,7 +6,7 @@
 
 ### 1. Import app
 
-    require("windows-imagemagick-resizer/src/index");
+    require("windows-imagemagick-resizer/src/index.min.js");
 
 ### 2 Call the function
 
